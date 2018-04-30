@@ -1,3 +1,5 @@
+// rj.js 1.0 by Rjissues
+
 var slideIndex = 1;
 showSlides(slideIndex);
 
